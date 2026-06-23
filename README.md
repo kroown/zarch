@@ -96,7 +96,7 @@ src/
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2965F1&height=100&section=footer">
 </p>
 
 
