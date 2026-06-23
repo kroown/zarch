@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  file archiver · linux · c++
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,cpp">
 </p>
 
