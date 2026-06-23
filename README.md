@@ -6,7 +6,7 @@ a linux file archiver with lzss + huffman compression and posix metadata support
 
 ```bash
 # clone
-git clone https://github.com/user/zarch.git
+git clone https://github.com/kroown/zarch.git
 cd zarch
 
 # configure
