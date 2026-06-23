@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=zarch&fontSize=70&fontAlignY=35&animation=twinkling">
-</p>
+# zarch
 
-<p align="center">
-  <code>file archiver · linux · c++</code>
-</p>
+file archiver · linux · c++
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=linux,cpp">
 </p>
 
@@ -96,6 +92,4 @@ src/
   format.hpp         binary struct definitions
 ```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer">
-</p>
+
