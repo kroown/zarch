@@ -59,7 +59,7 @@ CLIOptions parse_cli(int argc, char* argv[]) {
 }
 
 void print_usage() {
-    std::cout << "zarch v1.0 - Production-Grade Linux File Archiver\n"
+    std::cout << "zarch v1.0 - simple linux archiver\n"
               << "Usage:\n"
               << "  zarch -c -f archive.zarch [files...]   Create archive\n"
               << "  zarch -x -f archive.zarch              Extract archive\n"
