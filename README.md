@@ -3,11 +3,6 @@
 </p>
 
 <p align="center">
-  <b>zarch</b><br>
-  file archiver · linux · c++
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,cpp">
 </p>
 
