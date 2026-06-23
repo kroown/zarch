@@ -38,3 +38,5 @@ set(HEADERS
 add_executable(zarch ${SOURCES} ${HEADERS})
 target_link_libraries(zarch PRIVATE Threads::Threads z stdc++fs)
 target_include_directories(zarch PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/src)
+
+install(TARGETS zarch RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR})
