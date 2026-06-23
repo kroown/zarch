@@ -14,6 +14,9 @@ cmake -B build -DCMAKE_BUILD_TYPE=Release
 
 # build
 cmake --build build
+
+# install system-wide (optional)
+sudo cmake --install build
 ```
 
 dependencies: `zlib`, `pthreads` (system libraries on any linux distribution).
