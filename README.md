@@ -1,6 +1,6 @@
 # zarch
 
-a linux file archiver with lzss + huffman compression, posix metadata preservation, and multi-threading.
+a linux file archiver with lzss + huffman compression and posix metadata support.
 
 ## build
 
