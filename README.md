@@ -25,23 +25,23 @@ dependencies: `zlib`, `pthreads` (system libraries on any linux distribution).
 
 ```bash
 # compress files/directories
-./build/zarch -c -f archive.zarch file1.txt dir/
+zarch -c -f archive.zarch file1.txt dir/
 
 # compress with a pre-filter
-./build/zarch -c -f archive.zarch --filter delta largefile.bin
-./build/zarch -c -f archive.zarch --filter bcj program.exe
+zarch -c -f archive.zarch --filter delta largefile.bin
+zarch -c -f archive.zarch --filter bcj program.exe
 
 # extract
-./build/zarch -x -f archive.zarch
+zarch -x -f archive.zarch
 
 # stdin pipe mode
-cat data.bin | ./build/zarch -c > out.zarch
+cat data.bin | zarch -c > out.zarch
 
 # verbose / thread control
-./build/zarch -c -v -t 4 -f out.zarch bigfile.dat
+zarch -c -v -t 4 -f out.zarch bigfile.dat
 
 # help
-./build/zarch --help
+zarch --help
 ```
 
 ## options
