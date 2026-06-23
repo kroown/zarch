@@ -2,12 +2,6 @@
 
 a linux file archiver with lzss + huffman compression, posix metadata preservation, and multi-threading.
 
-## language breakdown
-
-- c++: 97%
-- cmake: 2%
-- other: 1%
-
 ## build
 
 ```bash
